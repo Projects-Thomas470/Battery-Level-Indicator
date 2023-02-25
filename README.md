@@ -7,7 +7,7 @@
 - Color indicators according to the percentage of the battery.
 
 ##
-Link:https://thomas470.github.io/Battery-Level-Indicator/
+Link:https://projects-thomas-frentzel.github.io/Battery-Level-Indicator/
 
 ##
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/80831811/221340050-f147fe9b-e6a8-4c27-9ad3-de98f2dc6793.png">
