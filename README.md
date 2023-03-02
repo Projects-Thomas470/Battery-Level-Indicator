@@ -7,7 +7,7 @@
 - Color indicators according to the percentage of the battery.
 
 ##
-Link:https://projects-thomas-frentzel.github.io/Battery-Level-Indicator/
+Link:https://projects-thomas-f.github.io/Battery-Level-Indicator/
 
 (It only works on Google Chrome or browsers that use Google)
 
